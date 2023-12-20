@@ -1,0 +1,7 @@
+C:\Users\shahvaladea\RiderProjects\LibraryTask\LibraryTask\bin\Debug\LibraryTask.exe
+C:\Users\shahvaladea\RiderProjects\LibraryTask\LibraryTask\bin\Debug\LibraryTask.pdb
+C:\Users\shahvaladea\RiderProjects\LibraryTask\LibraryTask\obj\Debug\LibraryTask.csproj.AssemblyReference.cache
+C:\Users\shahvaladea\RiderProjects\LibraryTask\LibraryTask\obj\Debug\LibraryTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\shahvaladea\RiderProjects\LibraryTask\LibraryTask\obj\Debug\LibraryTask.csproj.CoreCompileInputs.cache
+C:\Users\shahvaladea\RiderProjects\LibraryTask\LibraryTask\obj\Debug\LibraryTask.exe
+C:\Users\shahvaladea\RiderProjects\LibraryTask\LibraryTask\obj\Debug\LibraryTask.pdb
